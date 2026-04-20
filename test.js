@@ -1,6 +1,6 @@
 a = 10
 c = 50
 d = a + c
-console.log(d) //creer  un conflit ici
+d = 10 + 2 + a
 
 //creer un conflit 
